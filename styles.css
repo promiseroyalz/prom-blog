@@ -1,0 +1,31 @@
+.my_a_text {
+  font-family: "Hedvig Letters Serif", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #3B1C32;
+}
+.my_p {
+    font-family: "Roboto", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #6A1E55;
+    text-align: justify;
+}
+.my_h1 {
+    font-family: "Hedvig Letters Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #3B1C32;
+}
+.my_bg_body{
+    background-color: #F0C1E1 !important;
+}
+.my_h2 {
+    font-family: "Hedvig Letters Serif", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: #3B1C32;
+}
